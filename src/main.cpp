@@ -19,5 +19,3 @@ void loop() {
     delay(1000); 
   }
 }
-
-asd
