@@ -18,4 +18,8 @@ void loop() {
     digitalWrite(ledPins[i], LOW); 
     delay(1000); 
   }
+
+delay(2000);
 }
+
+
